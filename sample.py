@@ -2,4 +2,4 @@ print("Testme")
 
 print("MytestsuccessFul")
 
-print
+pri
